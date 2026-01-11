@@ -1,0 +1,112 @@
+mai 19, 2025 6:05:41 PM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 19, 2025 6:05:41 PM application.MainFX start
+INFOS: Loading FXML file ...
+mai 19, 2025 6:05:42 PM application.MainFX start
+INFOS: Setting up controller
+mai 19, 2025 6:05:42 PM application.MainFX start
+INFOS: Setting up GUI...
+mai 19, 2025 6:05:51 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:05:51 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:05:55 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:05:55 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:06:08 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:06:08 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:06:39 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:06:39 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:06:55 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:06:55 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:07:02 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:07:02 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:08:48 PM application.Controller onSelectNumberType
+INFOS: Select Number type action triggered
+mai 19, 2025 6:08:51 PM application.Controller onDeleteSelectedAction
+INFOS: Delete Selected Action triggered ...
+mai 19, 2025 6:08:54 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:08:55 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:09:02 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:09:02 PM application.Controller onFilterAction
+INFOS: terminal type
+mai 19, 2025 6:09:04 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:09:04 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:09:04 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:09:04 PM application.Controller onFilterAction
+INFOS: terminal type
+mai 19, 2025 6:09:04 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:09:04 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:09:07 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:09:07 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:09:10 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:09:10 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:09:10 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:10:10 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:10:10 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:10:14 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:10:14 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:10:20 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:10:20 PM application.Controller onFilterAction
+INFOS: terminal type
+mai 19, 2025 6:10:22 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:10:22 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:10:22 PM application.Controller onFilterAction
+INFOS: terminal type
+mai 19, 2025 6:10:22 PM application.Controller onFilterAction
+INFOS: Filtering action triggered
+mai 19, 2025 6:10:22 PM application.Controller onFilterAction
+INFOS: binary operator
+mai 19, 2025 6:10:45 PM application.Controller onOpenAction
+INFOS: Open Action triggered ...
+mai 19, 2025 6:10:45 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:10:51 PM application.Controller loadFile
+GRAVE: Parser error: Left side "d" found in right side "c / d"
+mai 19, 2025 6:11:20 PM application.Controller onAddAction
+INFOS: Add Action triggered ...
+mai 19, 2025 6:11:20 PM application.Controller onClearFilterAction
+INFOS: Clear filtering action triggered
+mai 19, 2025 6:11:23 PM application.Controller onQuitAction
+INFOS: Quit Action triggered ...
+mai 19, 2025 6:11:23 PM application.Controller quitActionImpl
+INFOS: Quit action triggered
+mai 19, 2025 6:11:23 PM application.Controller savePreferences
+INFOS: Save log level preference = INFO
+mai 19, 2025 6:11:23 PM application.Controller savePreferences
+INFOS: Save width preference = 1917.4837646484375
+mai 19, 2025 6:11:23 PM application.Controller savePreferences
+INFOS: Save height preference = 1025.654052734375
+mai 19, 2025 6:11:23 PM application.Controller savePreferences
+INFOS: Save Buttons display style preference = Graphics Only
+mai 19, 2025 6:11:23 PM application.Controller savePreferences
+INFOS: Save number type preference = Integers
