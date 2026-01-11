@@ -7,9 +7,6 @@
 
 **Expressions Manager** est une application JavaFX conçue pour parser, visualiser et évaluer des expressions mathématiques. Basée sur une architecture stricte Modèle-Vue-Contrôleur (MVC), elle permet de manipuler des arbres arithmétiques, de gérer des variables partagées et de filtrer dynamiquement les données.
 
-## 📸 Aperçu
-
-![Interface de l'application](path/to/screenshot.png)
 
 ## ✨ Fonctionnalités Clés
 
